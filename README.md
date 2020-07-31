@@ -14,7 +14,7 @@ Put the package under your project folder and add the following in import:
 ```golang
 import "./quay"
 ```
-or import directly:
+Or install and update with `go get -u github.com/angeiv/go-quay` and import directly:
 ```golang
 import "github.com/angeiv/go-quay"
 ```
